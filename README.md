@@ -5,8 +5,8 @@
 # 👋 Seja muito bem-vindo!
 
 Sou o **Adriano**, um desenvolvedor apaixonado por tecnologia e criatividade!  
-Atualmente, estudo e desenvolvo projetos com foco em **JavaScript para Web**.  
-Como hobby 🎨🕹️, estou aprendendo **Java** para a criação de **jogos estilo RPG 2D** com muita arte em pixel e dedicação!
+Atualmente, estudo e desenvolvo projetos com foco em **JavaScript e ReactJS para Web**.  
+Como hobby 🎨🕹️, gosto de estudar e jogar aquele CS de lei.
 
 Gosto de desafios, transformar ideias em código e sempre deixar minha marca pessoal em cada projeto.  
 
@@ -37,12 +37,8 @@ Gosto de desafios, transformar ideias em código e sempre deixar minha marca pes
 
 </div>
 
----
 
-## 📫 Como falar comigo?
 
-- 📧 Email: **adriano.dev09@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/adriano-gomes-a514b8323/)  
 
 
 ---
