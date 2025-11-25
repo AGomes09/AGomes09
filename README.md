@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://github.com/He-Dark/He-Dark/blob/main/bemvindo.png?raw=true"  />
+<img align="right" height="200" src="https://github.com/AGomes09/AGomes09/blob/main/bemvindo.png?raw=true"  />
 
 
 
@@ -44,7 +44,7 @@ Gosto de desafios, transformar ideias em código e sempre deixar minha marca pes
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/he-dark/he-dark/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AGomes09/AGomes09/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
