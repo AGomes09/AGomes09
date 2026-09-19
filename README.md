@@ -2,7 +2,7 @@
 
 # Adriano Gomes
 
-Desenvolvedor cursando o último período de Análise e Desenvolvimento de Sistemas (UNOESTE, EAD). Comecei pelo front-end e hoje aprofundo conhecimento em desenvolvimento web/backend, com foco no ecossistema Laravel.
+Desenvolvedor cursando o último período de Análise e Desenvolvimento de Sistemas (UNOESTE). Comecei pelo front-end e hoje aprofundo conhecimento em desenvolvimento web/backend, com foco no ecossistema Laravel.
 
 <br clear="right"/>
 
